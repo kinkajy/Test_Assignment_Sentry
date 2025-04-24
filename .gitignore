@@ -41,8 +41,3 @@ yarn-error.log*
 # System Files
 Thumbs.db
 desktop.ini
-
-# Documentation
-docs/
-!docs/*.md
-!docs/*.png 
